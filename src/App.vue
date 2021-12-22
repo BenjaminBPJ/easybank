@@ -47,6 +47,10 @@ ul{
   color: var(--third-font-color);
 }
 
+li{
+  cursor: pointer;
+}
+
 p{
   color: var(--third-font-color);
 }
